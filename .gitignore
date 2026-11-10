@@ -1,0 +1,8 @@
+node_modules/
+contracts/out/
+contracts/cache/
+circuits/*.r1cs
+circuits/*.ptau
+circuits/*_js/
+.DS_Store
+.env
